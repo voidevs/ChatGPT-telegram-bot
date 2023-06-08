@@ -9,4 +9,7 @@ This is a Telegram bot written with the telebot library and uses our free API to
 3- Run the app.py file.
 
 # how to get BOT_TOKEN
-Enter the bot [@BotFather](https://t.me/BotFather) in Telegram.
+1- Enter the bot [@BotFather](https://t.me/BotFather) in Telegram.
+
+2- After starting the bot command '/newbot
+Enter ' and do all the steps. After completing all the steps, it will give you a token for your robot
