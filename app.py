@@ -47,6 +47,4 @@ def keyboard(message):
             bot.reply_to(message, "Sorry, I don't have the ability to answer your question now!")
     
 
-
-
 bot.polling()
