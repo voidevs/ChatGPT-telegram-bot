@@ -4,7 +4,7 @@ This is a Telegram bot written with the telebot library and uses our free API to
 # how to using
 1- Install the necessary libraries with the `pip install -r requirements.txt` command.
 
-2- Run the app.py file.
+2- In line 5 of the 'app.py' file, place your bot token instead of 'BOT_TOKEN'.
 
 3- The address is http://127.0.0.1/api/qrcode?text=Hello%20World Open in your browser.
 
